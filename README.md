@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Lab — Where Innovation Meets Imagination! ✨
 
-![Header Image](https://your-image-hosting.com/your-header-image.png)
+![Header Image](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png)
 
 ---
 
