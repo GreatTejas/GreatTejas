@@ -17,6 +17,36 @@ I'm Tejas, a passionate Computer Science student specializing in Artificial Inte
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/CS23B039?theme=dark" alt="LeetCode Stats">
 </p>
+<h3 align="center">🏅 My LeetCode Badge Collection</h3>
+
+<p align="center">
+  <!-- LeetCode 75 -->
+  <a href="https://leetcode.com/CS23B039/" title="LeetCode 75">
+    <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="75" height="75" alt="LeetCode 75 Badge"/>
+  </a>
+
+  <!-- Top 100 Liked Questions -->
+  <a href="https://leetcode.com/CS23B039/" title="Top 100 Liked Questions">
+    <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="75" height="75" alt="Top 100 Liked Badge"/>
+  </a>
+
+  <!-- Top Interview Questions -->
+  <a href="https://leetcode.com/CS23B039/" title="Top Interview Questions">
+    <img src="https://assets.leetcode.com/static_assets/others/Top_Interview.gif" width="75" height="75" alt="Top Interview Badge"/>
+  </a>
+</p>
+
+---
+
+<h4 align="center">📆 Monthly & Streak Badges</h4>
+
+<p align="center">
+  <!-- 50 Days Badge – Use a generic placeholder icon -->
+  <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="75" height="75" alt="50 Days Badge" title="50 Days Badge Earned on 2025-05-21"/>
+
+  <!-- June Badge -->
+  <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="75" height="75" alt="June Badge" title="June Badge Earned on 2025-06-01"/>
+</p>
 
 ---
 
