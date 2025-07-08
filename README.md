@@ -32,7 +32,7 @@ I'm Tejas, a passionate Computer Science student specializing in Artificial Inte
 
   <!-- Top Interview Questions -->
   <a href="https://leetcode.com/CS23B039/" title="Top Interview Questions">
-    <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked-1.gif" width="75" height="75" alt="Top Interview Badge"/>
+    <img src="https://assets.leetcode.com/static_assets/others/Top_Interview_150.gif" width="75" height="75" alt="Top Interview Badge"/>
   </a>
 </p>
 
