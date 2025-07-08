@@ -42,10 +42,10 @@ I'm Tejas, a passionate Computer Science student specializing in Artificial Inte
 
 <p align="center">
   <!-- 50 Days Badge – Use a generic placeholder icon -->
-  <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="75" height="75" alt="50 Days Badge" title="50 Days Badge Earned on 2025-05-21"/>
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="75" height="75" alt="50 Days Badge" title="50 Days Badge Earned on 2025-05-21"/>
 
   <!-- June Badge -->
-  <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="75" height="75" alt="June Badge" title="June Badge Earned on 2025-06-01"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/202506.gif" width="75" height="75" alt="June Badge" title="June Badge Earned on 2025-06-01"/>
 </p>
 
 ---
