@@ -38,7 +38,7 @@ Android application for match scheduling, live scoring, and player verification.
 - Used by approximately 400+ users during Inter IIT Sports events  
 - Supported real-time updates for tennis, chess, and weightlifting  
 - Implemented QR-based player verification system for secure mess access  
-- Play Store: https://play.google.com/store/apps/details?id=YOUR_APP_ID  
+- Play Store: https://play.google.com/store/apps/details?id=com.iittp.iism25  
 - GitHub: https://github.com/GreatTejas/YOUR_REPO  
 
 ---
