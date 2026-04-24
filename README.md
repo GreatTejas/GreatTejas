@@ -39,7 +39,17 @@ Android application for match scheduling, live scoring, and player verification.
 - Supported real-time updates for tennis, chess, and weightlifting  
 - Implemented QR-based player verification system for secure mess access  
 - Play Store: https://play.google.com/store/apps/details?id=com.iittp.iism25  
-- GitHub: https://github.com/GreatTejas/YOUR_REPO  
+
+---
+
+### CounselNavi Projects (with Anvay)
+Contributed to features deployed on the CounselNavi platform.
+
+- Developed an AI-driven 3D avatar interview simulator for automated mock interviews  
+- Implemented response processing and dynamic interview flow generation  
+- Built a college recommendation system based on user preferences and ranking logic  
+- Integrated both systems into a live production platform  
+- Platform: https://www.counselnavi.com/
 
 ---
 
@@ -48,7 +58,7 @@ Extended an educational operating system with kernel-level features.
 - Implemented priority scheduling, sleep/wakeup, and dynamic memory allocation  
 - Integrated TLB handling for efficient address translation  
 - Focused on concurrency and synchronization correctness  
-- GitHub: https://github.com/GreatTejas/YOUR_REPO  
+- GitHub: https://github.com/GreatTejas/Nachos
 
 ---
 
@@ -57,7 +67,7 @@ Cycle-level simulator for analyzing processor performance.
 - Implemented 2-level cache with LRU and FIFO policies  
 - Computed IPC, cache performance, and memory latency  
 - Modular design for architecture experimentation  
-- GitHub: https://github.com/GreatTejas/YOUR_REPO  
+- GitHub: https://github.com/GreatTejas/Itaws  
 
 ---
 
@@ -66,7 +76,7 @@ Domain-specific language for music generation.
 - Built compiler pipeline (lexer, parser, code generation)  
 - Translates structured input into musical sequences  
 - Extensible grammar for custom constructs  
-- GitHub: https://github.com/GreatTejas/YOUR_REPO  
+- GitHub: https://github.com/GreatTejas/chordlang
 
 ---
 
